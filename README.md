@@ -3,4 +3,4 @@ Topic Modeling 2015 Health News Tweets (NLP, Python, NLTK, Sklearn, Machine Lear
 
 Welcome to my github repository! The Jupyter notebook is about Topic Modeling 2015 Health News Tweets. Feel free to check out my blogs on Medium here:
 
-PLACEHOLDER
+https://medium.com/@billyscardino/topic-modeling-2015-health-news-tweets-with-bow-nmf-842d7b14a1a7
